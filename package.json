@@ -1,0 +1,25 @@
+{
+  "name": "maprd",
+  "version": "0.0.1",
+  "description": "nodejs map reduce for opneFPGAduino",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenFPGAduino/bigdata.git"
+  },
+  "dependencies": {
+    "paralleljs": "*"
+  },
+  "author": "Zhizhou Li",
+  "license": "GPL",
+  "readmeFilename": "README.md",
+  "devDependencies": {},
+  "keywords": [
+    "map",
+    "reduce",
+    "node"
+  ]
+}
