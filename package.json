@@ -11,7 +11,8 @@
     "url": "https://github.com/OpenFPGAduino/bigdata.git"
   },
   "dependencies": {
-    "paralleljs": "*"
+    "paralleljs": "*",
+    "dnode": "*"
   },
   "author": "Zhizhou Li",
   "license": "GPL",
