@@ -1,4 +1,4 @@
 # bigdata
 Big data program for FPGAduino
-Inlcude hadoop
+Inlcude hadoop 
 Nodejs map reduce
