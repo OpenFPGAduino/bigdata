@@ -30,5 +30,5 @@ node_modules
 *.hex
 
 *~
-hadoop-*
+hadoop
 node_modules
