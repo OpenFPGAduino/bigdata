@@ -29,6 +29,10 @@ node_modules
 *.x86_64
 *.hex
 
+*.tgz
+*.tar
+*.gz
 *~
 hadoop
 node_modules
+kafka
