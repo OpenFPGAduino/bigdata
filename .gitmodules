@@ -1,3 +1,6 @@
 [submodule "mqttKafkaBridge"]
 	path = mqttKafkaBridge
 	url = https://github.com/jacklund/mqttKafkaBridge.git
+[submodule "eclairjs-node"]
+	path = eclairjs-node
+	url = https://github.com/EclairJS/eclairjs-node.git
