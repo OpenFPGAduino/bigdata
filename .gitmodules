@@ -1,0 +1,3 @@
+[submodule "mqttKafkaBridge"]
+	path = mqttKafkaBridge
+	url = https://github.com/jacklund/mqttKafkaBridge.git
