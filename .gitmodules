@@ -4,3 +4,6 @@
 [submodule "eclairjs-node"]
 	path = eclairjs-node
 	url = https://github.com/EclairJS/eclairjs-node.git
+[submodule "skale-engine"]
+	path = skale-engine
+	url = git://github.com/skale-me/skale-engine.git
