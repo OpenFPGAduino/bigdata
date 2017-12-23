@@ -25,7 +25,7 @@ clean:
 	rm -rf hadoop
 	rm -rf hadoop-2.7.5.tar.gz
 	rm -rf kafka
-	rm -rf kafka_2.11-0.10.0.0.tgz
+	rm -rf kafka_2.11-1.0.0.tgz
 	rm -rf spark
 	rm -rf spark-2.2.1-bin-hadoop2.7.tgz
 	rm -rf elasticsearch
