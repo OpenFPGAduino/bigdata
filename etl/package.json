@@ -1,0 +1,31 @@
+{
+  "name": "ETL",
+  "version": "0.1.0",
+  "description": "Extract, transform, load for opneFPGAduino",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenFPGAduino/iot.git"
+  },
+  "dependencies": {
+    "eclairjs": "^0.10.2",
+    "kafka-node": "2.2.3",
+    "skale-engine": "^0.7.2",
+    "lru-cache": "^4.1.1",
+    "node-grok": "^2.0.3",
+    "object-hash": "^1.1.8",
+    "elasticsearch": "13.3.1"
+  },
+  "author": "Zhizhou Li",
+  "license": "GPL",
+  "readmeFilename": "README.md",
+  "devDependencies": {},
+  "keywords": [
+    "Mqtt",
+    "Kafka",
+    "node"
+  ]
+}
