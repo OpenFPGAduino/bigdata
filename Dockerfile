@@ -1,7 +1,7 @@
 FROM ubuntu
 MAINTAINER Zhizhou Li <lizhizhou1983@gmail.com>
 RUN apt-get update
-RUN apt-get install -y curl libssl-dev
+RUN apt-get install -y curl libssl1.0.0
 
 # PYTHON
 RUN apt-get install -y python3-pip 
