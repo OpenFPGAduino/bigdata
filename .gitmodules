@@ -7,3 +7,6 @@
 [submodule "skale-engine"]
 	path = skale-engine
 	url = git://github.com/skale-me/skale-engine.git
+[submodule "nifi-minifi-cpp"]
+	path = nifi-minifi-cpp
+	url = https://github.com/apache/nifi-minifi-cpp.git
